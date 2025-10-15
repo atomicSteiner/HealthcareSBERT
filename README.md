@@ -10,7 +10,7 @@ We found these two main related applications:
 
 -Match a new input to the clustered documents and retrieving the most related ones (you can also label it, using the clusters we previously made).
 
-Research Quertions:
+Research Questions:
 
 RQ1 – Domain adaptation:
 How much does fine-tuning SBERT on healthcare-specific sentence pairs improve sentence similarity performance compared to general-domain SBERT models?
