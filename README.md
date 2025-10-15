@@ -1,5 +1,7 @@
 # HealthcareSBERT
 NLP final project
+
+
 Our goal is to train or fine-tune SBERT on a healthcare-specific dataset so that it understands domain-specific language. In this case the domain is health care.
 
 We found these two main related applications: 
